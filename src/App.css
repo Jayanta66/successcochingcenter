@@ -9,11 +9,7 @@
   text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
 
 .App-header {
   background-color: #4ef0f3;
@@ -23,9 +19,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(189, 63, 63);
-  border-color: red;
-
+ /* color: rgb(189, 63, 63);
+  border-color: rgb(241, 3, 3);
+*/
 }
 
 .App-link {
@@ -39,9 +35,9 @@
 	height: 100vh;
 		border: 5px;
 	
-		border-color:red;
+		border-color:rgb(219, 18, 18);
 	
-	background-color:#E39679;
+	background-color:#82e379;
 
   margin: 5px;
   padding: 0;
