@@ -6,6 +6,7 @@ function App() {
       <header className="App-header">
         <h1>সাফল্য কোচিং সেন্টার</h1>
 <h3>প্রো : শুভজিৎ হালদার (M.A, B.ED, D.L.E.D)</h3>
+<h3>মোবাইল : 8629903454</h3>
       </header>
 
     <div id="bdy">
