@@ -1,20 +1,21 @@
-//import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>সাফল্য কোচিং</h1>
-<h1>Success Coching Center </h1>
-<h2>Subhajit Halder</h2>
-
+        <h1>সাফল্য কোচিং সেন্টার</h1>
+<h3>প্রো : শুভজিৎ হালদার (M.A, B.ED, D.L.E.D)</h3>
       </header>
 
     <div id="bdy">
 
 
-<h1>dfsdsf</h1>
+<h1>এখানে পঞ্চম থেকে দশম শ্রেণীর (Science , Arts) 
+  সকল বিষয় ও একাদশ , দ্বাদশ শ্রেণীর বাংলা , ইংলিশ বিষয় অতি 
+  যত্ন সহকারে অভিজ্ঞ শিক্ষক দ্বারা পারেন হয় ।</h1>
+  <h4>দত্তপুলিয়া রোড , পানিখালী , নদীয়া ।</h4>
+  <h5>মোবাইল : 8629903454</h5>
 
 
 
