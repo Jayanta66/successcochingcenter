@@ -38,9 +38,15 @@
 		border-color:rgb(219, 18, 18);
 	
 	background-color:#82e379;
-
+  background-image: url("/R.jpg");
+  background-position: center;
+  background-size: cover;
   margin: 5px;
   padding: 0;
   border: 0;
 
+}
+
+#clr{
+  color: rgb(255 0 0);;
 }
